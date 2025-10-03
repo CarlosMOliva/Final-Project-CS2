@@ -29,7 +29,7 @@ We have provided **2 starter ideas** for each dataset — you must design **at l
 - Feature 2: *(Starter idea)*  
 - Feature 3: *(Your own idea)*  
 - Feature 4: *(Your own idea)*  
-- Feature 5: *(Your own idea)*  
+- Feature 5: *(Your own idea)*  a
 
 *(You may add more features if you like.)*  
 
